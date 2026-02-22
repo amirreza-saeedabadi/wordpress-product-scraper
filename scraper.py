@@ -17,8 +17,6 @@ def read_URL(URL, all_products_count):
 
 file_deniz = open("products.txt", "a")
 
-print("amirreza")
-
 all_products_count = 0
 page = 1
 while (True):
