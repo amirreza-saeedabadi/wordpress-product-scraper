@@ -39,6 +39,7 @@ wordpress-product-scraper/
 - scraper.py          # Main Python scraper script
 - requirements.txt    # Dependencies
 - README.md           # This file
+- LICENSE             # Project license
 - .gitignore          # Ignore unnecessary files
 - products.txt        # Output file (auto-generated)
 
