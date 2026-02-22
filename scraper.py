@@ -21,7 +21,7 @@ all_products_count = 0
 page = 1
 while (True):
     page = str(page)
-    #enter URL
+    #enter URL in the section below after https://
     URL = "https://" + page
     URL_status , all_products_count = read_URL(URL, all_products_count)
     page = int(page)
